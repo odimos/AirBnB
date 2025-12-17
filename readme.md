@@ -13,7 +13,7 @@ Applied Machine Learning, AUEB 2024
 
 > Note: GitHub renders notebooks statically and readme includes only images.  
 > For full interactivity (widgets, dynamic charts), download `Airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.  
-> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/Airbnb.ipynb)
+> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/odimos/AirBnB/blob/main/Airbnb.ipynb)
 
 
 Data collected by [Inside AirBnB](http://insideairbnb.com).
