@@ -11,6 +11,11 @@ Applied Machine Learning, AUEB 2024
 - [Assignment Specification](assignment.ipynb)
 - [Solution Code](Airbnb.ipynb)
 
+> Note: GitHub renders notebooks statically and readme includes only images.  
+> For full interactivity (widgets, dynamic charts), download `Airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.
+> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/Airbnb.ipynb)
+
+
 Data collected by [Inside AirBnB](http://insideairbnb.com).
 We use the most recent 12-month period data for the following cities:
 Amsterdam, Athens, Barcelona, Berlin, Copenhagen, Dublin, Lisbon, London, Madrid, Paris, Rome, Venice, Vienna.
@@ -84,9 +89,8 @@ For each city, we estimate activity:
 
 
 ## Visualisation
-If you want the interactive implementation you need to open Airbnb.ipynb.
-Important Note: There is currently a known bug in the Top Hosts table.
-It always displays the Athens Top Hosts regardless of the selected city.
+> For full interactivity (widgets, dynamic charts), download `Airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.
+> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/Airbnb.ipynb)
 
 ### Static example for Athnes
 ![Athens](visualisation.png)
