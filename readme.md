@@ -1,4 +1,4 @@
-# Exploring AirBnB in Europe
+# AirBnB Listings & Activity in Europe Data Analysis
 
 <div>
   <img src="Airbnb.png" width="400" style="margin-right:10px;">&nbsp;&nbsp;&nbsp;&nbsp;
